@@ -1,17 +1,27 @@
 # TODO: might need archlinuxarm-keyring and archlinux-keyring (note that archlinux-keyring has never existed in the x86_64 iso installer)
-archlinuxarm-keyring
+#broadcom-wl
+#cloud-init
+#edk2-shell
+#intel-ucode
+#ipw2100-fw
+#ipw2200-fw
+#linux
+#memtest86+
+#mkinitcpio-archiso
+#reflector
+#syslinux
+#virtualbox-guest-utils-nox
 alsa-utils
 amd-ucode
 arch-install-scripts
 archinstall
+archlinuxarm-keyring
 b43-fwcutter
 base
 bind-tools
 brltty
-#broadcom-wl
 btrfs-progs
 clonezilla
-#cloud-init
 crda
 cryptsetup
 darkhttpd
@@ -23,7 +33,6 @@ dmraid
 dnsmasq
 dosfstools
 e2fsprogs
-#edk2-shell
 efibootmgr
 espeakup
 ethtool
@@ -38,9 +47,6 @@ gptfdisk
 grml-zsh-config
 haveged
 hdparm
-#intel-ucode
-#ipw2100-fw
-#ipw2200-fw
 irssi
 iw
 iwd
@@ -50,7 +56,6 @@ less
 lftp
 libfido2
 libusb-compat
-#linux
 linux-aarch64
 linux-atm
 linux-firmware
@@ -62,9 +67,7 @@ man-db
 man-pages
 mc
 mdadm
-#memtest86+
 mkinitcpio
-#mkinitcpio-archiso
 mkinitcpio-nfs-utils
 modemmanager
 mtools
@@ -87,7 +90,6 @@ ppp
 pptpclient
 pv
 qemu-guest-agent
-#reflector
 reiserfsprogs
 rp-pppoe
 rsync
@@ -99,7 +101,6 @@ smartmontools
 sof-firmware
 squashfs-tools
 sudo
-#syslinux
 systemd-resolvconf
 tcpdump
 terminus-font
@@ -111,7 +112,6 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-#virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
 wireless_tools
